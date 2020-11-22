@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\sadra\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\sadra\\.nuget\\packages"
+    ]
+  }
+}
